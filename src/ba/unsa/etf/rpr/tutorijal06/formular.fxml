@@ -14,7 +14,7 @@
 <?import javafx.scene.layout.GridPane?>
 <?import javafx.scene.layout.RowConstraints?>
 
-<GridPane alignment="center" hgap="4" prefWidth="258.0" stylesheets="@polje.css" vgap="4" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ba.unsa.etf.rpr.tutorijal6.FormularController">
+<GridPane alignment="center" hgap="4" prefWidth="258.0" stylesheets="@polje.css" vgap="4" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ba.unsa.etf.rpr.tutorijal06.FormularController">
     <rowConstraints>
         <RowConstraints />
         <RowConstraints minHeight="10.0" prefHeight="30.0" />

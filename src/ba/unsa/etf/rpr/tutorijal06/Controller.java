@@ -18,5 +18,4 @@ import java.util.ResourceBundle;
 public class Controller {
 
     private FormularController formularController;
-
 }
